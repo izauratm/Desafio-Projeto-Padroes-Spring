@@ -6,20 +6,21 @@ Este projeto foi desenvolvido como parte do desafio da Digital Innovation One (D
 
 ## 🧰 Padrões implementados
 
-- Singleton
-- Strategy
-- Facade
-- Builder
-- Adapter
+- Singleton: Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
+- Strategy: Permite que mudemos o comportamento de uma classe em tempo de execução, usando diferentes estratégias.
+- Facade: Fornece uma interface simplificada para um conjunto complexo de subsistemas.
+- Builder: Facilita a criação de objetos complexos, com muitos atributos opcionais, de forma legível.
+- Adapter: Permite que classes com interfaces incompatíveis trabalhem juntas.
 
 ## 🚀 Tecnologias
 
-- Java 17
-- Spring Boot
-- Spring Data JPA
-- OpenAPI/Swagger
-- Feign Client
-- H2 Database
+![Java 17](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green?logo=spring)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-Enabled-brightgreen)
+![OpenAPI Swagger](https://img.shields.io/badge/OpenAPI-Swagger-yellow?logo=swagger)
+![Feign Client](https://img.shields.io/badge/Feign%20Client-Spring%20Cloud-blueviolet)
+![H2 Database](https://img.shields.io/badge/H2-Database-lightgrey?logo=h2)
+
 
 ## 📦 Como executar
 
