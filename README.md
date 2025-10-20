@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte do desafio da Digital Innovation One (D
 mvn spring-boot:run
 ```
 
-## Acesse a dicumentação da API em:
+## Acesse a documentação da API em (quando criar o seu projeto):
 http://localhost:8080/swagger-ui/index.html
 
 ## 🧱 Estrutura do Projeto
