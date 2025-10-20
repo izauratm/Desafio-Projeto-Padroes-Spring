@@ -1,4 +1,4 @@
-# <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/cc7f0067-7186-46bf-a299-b8121a82ecda" /> Desafio: Lab Padrões de Projeto com Spring Boot
+# <img width="64" height="64" alt="fluxo-do-processo" src="https://github.com/user-attachments/assets/58b53158-c892-446e-8d47-540d0c73b8f3" /> Desafio: Lab Padrões de Projeto com Spring Boot
 Este repositório reúne os principais aprendizados adquiridos durante o **Bootcamp GFT - Desenvolvimento Java com IA - Curso: Banco de Dados, Padrões de Projeto e APIs com Spring Boot** da plataforma DIO.me. 
 Este projeto foi desenvolvido como parte do desafio da Digital Innovation One (DIO), com o objetivo de aplicar os principais padrões de projeto na construção de uma API REST com Spring Boot.
 
