@@ -60,6 +60,7 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 - [ViaCEP - Webservice](https://viacep.com.br/)
 - [Refatoração e Padrões de Projeto](https://refactoring.guru/pt-br)
 - [Spring Initializr](https://start.spring.io/index.html)
+- [Java-Oracle: Downloads](https://www.oracle.com/br/java/technologies/downloads/)
   
 📎 Link do curso: [DIO.me](https://web.dio.me/home) 
 
